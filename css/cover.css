@@ -120,7 +120,7 @@ i:hover {
 
 /* Existing layout and scrollbar styles */
 .cover-container {
-    max-width: 60em;
+    max-width: 100%;
 }
 
 .ml15 .word {
